@@ -1,0 +1,2 @@
+# GET all games
+GET http://localhost:8080/backlog/games
